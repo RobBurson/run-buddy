@@ -12,3 +12,5 @@ https://StmPwrdBear.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Rob Burson.
+
+### ©️2019 Run Buddy, Inc
